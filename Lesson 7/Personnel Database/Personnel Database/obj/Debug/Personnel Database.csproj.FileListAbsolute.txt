@@ -1,0 +1,26 @@
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Personnel Database\Personnel Database\bin\Debug\Personnel Database.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Personnel Database\Personnel Database\bin\Debug\Personnel.mdf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Personnel Database\Personnel Database\bin\Debug\Personnel_log.ldf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Personnel Database\Personnel Database\bin\Debug\Personnel Database.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Personnel Database\Personnel Database\bin\Debug\Personnel Database.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Personnel Database\Personnel Database\obj\Debug\Personnel Database.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Personnel Database\Personnel Database\obj\Debug\Personnel_Database.Form1.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Personnel Database\Personnel Database\obj\Debug\Personnel_Database.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Personnel Database\Personnel Database\obj\Debug\Personnel Database.csproj.GenerateResource.Cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Personnel Database\Personnel Database\obj\Debug\Personnel Database.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Personnel Database\Personnel Database\obj\Debug\Personnel Database.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\bin\Debug\Personnel Database.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\obj\Debug\Personnel Database.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\obj\Debug\Personnel Database.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\bin\Debug\Personnel.mdf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\bin\Debug\Personnel_log.ldf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\bin\Debug\EmployeeDataSet.Designer.cs
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\bin\Debug\EmployeeDataSet.xsc
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\bin\Debug\EmployeeDataSet.xsd
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\bin\Debug\EmployeeDataSet.xss
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\bin\Debug\Personnel Database.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\bin\Debug\Personnel Database.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\obj\Debug\Personnel Database.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\obj\Debug\Personnel_Database.Form1.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\obj\Debug\Personnel_Database.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Personnel Database\Personnel Database\obj\Debug\Personnel Database.csproj.GenerateResource.Cache
