@@ -133,3 +133,9 @@ Programs created for the class Beginning .NET Programming
  * Allows the user to sort a list of cities by population or by name
  * Calculates and displays the total population and the average population
  * Displays the highest and lowest population
+
+## Final
+**Sales Calculator**
+* Allows the user to enter in a sales amount for the selected Sales ID
+* Displays the total sales for each Sales ID
+* Saves the total sales for each Sales ID to a file
