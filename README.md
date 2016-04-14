@@ -3,11 +3,11 @@ Programs created for the class Beginning .NET Programming
 
 ## Lesson 1: Creating Forms
 
-*Target Competency:*
+**Target Competency:**
 * Create a C# program which contains a form
 * Create a C# program using multiple controls
 
-*Programs:*
+**Programs:**
 * Card Identifier
 * Joke and Punch line
 * Heads or Tails
@@ -15,10 +15,10 @@ Programs created for the class Beginning .NET Programming
 
 ## Lesson 2: Processing Data
 
-*Target Competency:*
+**Target Competency:**
 * Use constants, global, and local variables in programs
 
-*Programs:*
+**Programs:**
 * Sales Tax and Total
 * Calorie Counter
 * Paint Job Estimator
@@ -26,26 +26,26 @@ Programs created for the class Beginning .NET Programming
 
 ## Lesson 3: Making Decisions in a Program
 
-*Target Competency:*
+**Target Competency:**
 * Use IF, THEN, ELSE statements in C# programs
 * Use the CASE statement in C# programs
 * Create C# programs using multiple controls
 * Use constants, global, and local variables in programs
 
-*Programs:*
+**Programs:**
 * Color Mixer
 * Software Sales
 * Workshop Selector
 
 ## Lesson 4: Loops, Files, and Random Numbers
 
-*Target Competency:*
+**Target Competency:**
 * Use Do While Loops in C# programs
 * Use For Loops in C# programs
 * Create C# programs that contain a form
 * Create C# programs that use multiple controls
 
-*Programs:*
+**Programs:**
 * Population
 * Tuition Increase
 * Random Number Guessing Game
@@ -53,12 +53,12 @@ Programs created for the class Beginning .NET Programming
 
 ## Lesson 5: Modularizing Your Code with Methods
 
-*Target Competency:*
+**Target Competency:**
 * Create C# programs which contain a Form
 * Create C# programs using multiple controls
 * Create Methods
 
-*Programs:*
+**Programs:**
 * Calories from Fat and Carbohydrates
 * Joe's Automotive
 * Hospital Charges
@@ -66,10 +66,10 @@ Programs created for the class Beginning .NET Programming
 
 ## Lesson 6: Using Arrays and Lists
 
-*Target Competency:*
+**Target Competency:**
 * Use Arrays in C# programs
 
-*Programs:*
+**Programs:**
 * Total Sales
 * Driver's License Exam
 * Name Search
@@ -77,10 +77,10 @@ Programs created for the class Beginning .NET Programming
 
 ## Lesson 7: Databases
 
-*Target Competency:*
+**Target Competency:**
 * Access data through ADO .NET components
 
-*Programs:*
+**Programs:**
 * Personal Database
 * Multiform Personnel Database Application
 * Hourly Pay Sorter
