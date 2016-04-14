@@ -1,0 +1,11 @@
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Employee Search\Employee Search\bin\Debug\Employee Search.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Employee Search\Employee Search\bin\Debug\Personnel.mdf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Employee Search\Employee Search\bin\Debug\Personnel_log.ldf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Employee Search\Employee Search\bin\Debug\Employee Search.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Employee Search\Employee Search\bin\Debug\Employee Search.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Employee Search\Employee Search\obj\Debug\Employee_Search.Form1.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Employee Search\Employee Search\obj\Debug\Employee_Search.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Employee Search\Employee Search\obj\Debug\Employee Search.csproj.GenerateResource.Cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Employee Search\Employee Search\obj\Debug\Employee Search.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Employee Search\Employee Search\obj\Debug\Employee Search.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Employee Search\Employee Search\obj\Debug\Employee Search.csprojResolveAssemblyReference.cache
