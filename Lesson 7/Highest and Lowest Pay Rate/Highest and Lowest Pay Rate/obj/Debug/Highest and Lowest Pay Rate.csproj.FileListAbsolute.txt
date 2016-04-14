@@ -1,0 +1,22 @@
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\bin\Debug\Highest and Lowest Pay Rate.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\bin\Debug\Personnel.mdf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\bin\Debug\Personnel_log.ldf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\bin\Debug\Highest and Lowest Pay Rate.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\bin\Debug\Highest and Lowest Pay Rate.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\obj\Debug\Highest_and_Lowest_Pay_Rate.Form1.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\obj\Debug\Highest_and_Lowest_Pay_Rate.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\obj\Debug\Highest and Lowest Pay Rate.csproj.GenerateResource.Cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\obj\Debug\Highest and Lowest Pay Rate.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\obj\Debug\Highest and Lowest Pay Rate.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\obj\Debug\Highest and Lowest Pay Rate.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A5\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\bin\Debug\Highest and Lowest Pay Rate.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A5\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\obj\Debug\Highest and Lowest Pay Rate.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A5\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\obj\Debug\Highest and Lowest Pay Rate.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A5\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\bin\Debug\Personnel.mdf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A5\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\bin\Debug\Personnel_log.ldf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A5\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\bin\Debug\Highest and Lowest Pay Rate.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A5\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\bin\Debug\Highest and Lowest Pay Rate.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A5\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\obj\Debug\Highest and Lowest Pay Rate.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A5\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\obj\Debug\Highest_and_Lowest_Pay_Rate.Form1.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A5\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\obj\Debug\Highest_and_Lowest_Pay_Rate.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A5\Highest and Lowest Pay Rate\Highest and Lowest Pay Rate\obj\Debug\Highest and Lowest Pay Rate.csproj.GenerateResource.Cache
