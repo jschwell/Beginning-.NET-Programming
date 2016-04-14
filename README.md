@@ -2,7 +2,6 @@
 Programs created for the class Beginning .NET Programming
 
 ## Lesson 1: Creating Forms
-
 **Target Competency:**
 * Create a C# program which contains a form
 * Create a C# program using multiple controls
@@ -18,7 +17,6 @@ Programs created for the class Beginning .NET Programming
  * Shows the star names of the stars in the Orion Constellation when the Show Star Names Button is clicked and hides the name when the Hide Star Names button is clicked
 
 ## Lesson 2: Processing Data
-
 **Target Competency:**
 * Use constants, global, and local variables in programs
 
@@ -36,7 +34,6 @@ Programs created for the class Beginning .NET Programming
  * Displays the revenue generated for each class of seats and the total revenue
 
 ## Lesson 3: Making Decisions in a Program
-
 **Target Competency:**
 * Use IF, THEN, ELSE statements in C# programs
 * Use the CASE statement in C# programs
@@ -55,7 +52,6 @@ Programs created for the class Beginning .NET Programming
  * Calculates and displays the registration cost, the lodging cost, and the total cost
 
 ## Lesson 4: Loops, Files, and Random Numbers
-
 **Target Competency:**
 * Use Do While Loops in C# programs
 * Use For Loops in C# programs
@@ -75,7 +71,6 @@ Programs created for the class Beginning .NET Programming
  * Reads the numbers from the file, displays them in a ListBox, and calculates the total of the numbers
 
 ## Lesson 5: Modularizing Your Code with Methods
-
 **Target Competency:**
 * Create C# programs which contain a Form
 * Create C# programs using multiple controls
@@ -96,7 +91,6 @@ Programs created for the class Beginning .NET Programming
  * Generates the computers choice and displays the winner
 
 ## Lesson 6: Using Arrays and Lists
-
 **Target Competency:**
 * Use Arrays in C# programs
 
@@ -114,7 +108,6 @@ Programs created for the class Beginning .NET Programming
  * Reads a file's contents into a list and displays the average annual change in population, the year with the greatest increase in population, and the year with the least increase in populatino during the time period
 
 ## Lesson 7: Databases
-
 **Target Competency:**
 * Access data through ADO .NET components
 
