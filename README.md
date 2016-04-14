@@ -83,10 +83,17 @@ Programs created for the class Beginning .NET Programming
 
 **Programs:**
 * Calories from Fat and Carbohydrates
- * 
+ * Allows the user to enter in a number of fat grams and a number of carbohydrate grams
+ * Calculates the number of calories that result from the fat and the number of calories that result from the carbohydrates
 * Joe's Automotive
+ * Allows the user to select the services performed
+ * Calculates and displays the cost for services and labor, the cost of parts, the tax, and the total cost
 * Hospital Charges
+ * Allows the user to enter the number of days spent in the hospital, the amount of medication charges, the amount of surgical charges, the amount of lab fees, and the amount of physical rehabilitation charges
+ * Calculates and displays the total cost of the hospital stay
 * Rock, Paper, Scissors Game
+ * Allows the user to select either rock, paper or scissors
+ * Generates the computers choice and displays the winner
 
 ## Lesson 6: Using Arrays and Lists
 
@@ -95,9 +102,16 @@ Programs created for the class Beginning .NET Programming
 
 **Programs:**
 * Total Sales
+ * Reads a file's contents into an array and displays the array's contents in a ListBox control
+ * Calculates and displays the total of the array's values
 * Driver's License Exam
+ * Reads a student's answers from a text file and stores the answers in an array
+ * Displays the total number of correct and incorrect questions
 * Name Search
+ * Allows the user to enter a boy's name, a girl's name, or both
+ * Displays a message indicating whether or not the names were among the most popular
 * Population Data
+ * Reads a file's contents into a list and displays the average annual change in population, the year with the greatest increase in population, and the year with the least increase in populatino during the time period
 
 ## Lesson 7: Databases
 
@@ -106,8 +120,16 @@ Programs created for the class Beginning .NET Programming
 
 **Programs:**
 * Personal Database
+ * Displays a table named Employee in a DataGridView control
 * Multiform Personnel Database Application
+ * Displays the Employee table in a DataGridView control on the main form and displays the Employee table in a Details view on a second form
 * Hourly Pay Sorter
+ * Sorts the data in ascending or descending order by hourly pay rate
 * Employee Search
+ * Allows the user to enter in a name and then searches for that name in the Employee table
 * Highest and Lowest Pay Rate
+ * Displays the highest and lowest pay rate in the Employee table
 * Population Database
+ * Allows the user to sort a list of cities by population or by name
+ * Calculates and displays the total population and the average population
+ * Displays the highest and lowest population
