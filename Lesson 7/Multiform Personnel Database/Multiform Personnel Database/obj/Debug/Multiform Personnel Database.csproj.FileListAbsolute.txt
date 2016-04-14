@@ -1,0 +1,19 @@
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\bin\Debug\Multiform Personnel Database.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\bin\Debug\Personnel.mdf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\bin\Debug\Personnel_log.ldf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\bin\Debug\Multiform Personnel Database.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\bin\Debug\Multiform Personnel Database.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\obj\Debug\Multiform Personnel Database.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\obj\Debug\Multiform_Personnel_Database.DetailsForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\obj\Debug\Multiform_Personnel_Database.MainForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\obj\Debug\Multiform_Personnel_Database.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\obj\Debug\Multiform Personnel Database.csproj.GenerateResource.Cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\obj\Debug\Multiform Personnel Database.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\obj\Debug\Multiform Personnel Database.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\bin\Debug\EmployeeDataSet.Designer.cs
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\bin\Debug\EmployeeDataSet.xsc
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\bin\Debug\EmployeeDataSet.xsd
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Multiform Personnel Database\Multiform Personnel Database\bin\Debug\EmployeeDataSet.xss
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A2\Multiform Personnel Database\Multiform Personnel Database\bin\Debug\Multiform Personnel Database.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A2\Multiform Personnel Database\Multiform Personnel Database\obj\Debug\Multiform Personnel Database.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Lesson7\L7A2\Multiform Personnel Database\Multiform Personnel Database\obj\Debug\Multiform Personnel Database.pdb

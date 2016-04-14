@@ -1,0 +1,15 @@
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\bin\Debug\Hourly Pay Sorter.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\bin\Debug\Personnel.mdf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\bin\Debug\Personnel_log.ldf
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\bin\Debug\Hourly Pay Sorter.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\bin\Debug\Hourly Pay Sorter.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\obj\Debug\Hourly_Pay_Sorter.Form1.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\obj\Debug\Hourly_Pay_Sorter.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\obj\Debug\Hourly Pay Sorter.csproj.GenerateResource.Cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\obj\Debug\Hourly Pay Sorter.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\obj\Debug\Hourly Pay Sorter.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\bin\Debug\EmployeeDataSet.Designer.cs
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\bin\Debug\EmployeeDataSet.xsc
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\bin\Debug\EmployeeDataSet.xsd
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\bin\Debug\EmployeeDataSet.xss
+C:\Users\Jo\Desktop\WITC\WITC Semester 1\Beginning .NET Programming\Lesson 7\Assignments\Hourly Pay Sorter\Hourly Pay Sorter\obj\Debug\Hourly Pay Sorter.csprojResolveAssemblyReference.cache
